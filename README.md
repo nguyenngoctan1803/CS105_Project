@@ -5,7 +5,7 @@
 I. Hướng dẫn cài đặt:
 1. Cài đặt bất kỳ trình biên soạn nào (Microsoft Visual Studio, Visual Studio Code, ...).
 2. Cài đặt extension Live Server để chạy.
-Hoặc có thể vào đường dẫn này để demo trực tuyến 
+Hoặc có thể vào đường dẫn này để demo trực tuyến https://nguyenngoctan1803.github.io/CS105_Project/
 
 II. Hướng dẫn sử dụng:
 1. Tải, giải nén file .rar.
